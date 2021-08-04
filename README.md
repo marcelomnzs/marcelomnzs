@@ -1,6 +1,6 @@
 ## Hi there, i'm Marcelo Antonio 
 
- :octocat: Welcome to my github! Feel free to check any repo you like, here you will see a bit of my jouney and progress towards this goal.
+ :octocat: Welcome to my github! Feel free to check any repo you like, here you will see a bit of my jouney and progress towards the goal of becoming a fullstack developer.
 
 > 🔭 I’m currently working on:
 
