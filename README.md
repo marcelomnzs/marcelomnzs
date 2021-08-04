@@ -21,7 +21,7 @@
 
 > ⚡ Fun fact:
 
-I love music, and i do play a bit of a few instruments :notes:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I love music, and i do play a bit of a few instruments :notes:
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelomnzs&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomnzs&layout=compact&theme=dracula"/>
