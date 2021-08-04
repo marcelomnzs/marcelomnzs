@@ -8,8 +8,8 @@
 
 > 🌱 I’m currently learning
 
-- Vue; 
-- Laravel; 
+- Vue 
+- Laravel 
 - Tailwind
 
 > 📫 How to reach me? You can find me through these social medias: 
