@@ -4,7 +4,7 @@
 
 > 🔭 I’m currently working on:
 
-- :books: [Livraria da Gente](https://github.com/alinevenceslau/livrariadagenteup) - work in progress
+- 👨🏻‍🍳 [Recipe Calculator](https://github.com/marcelomnzs/Recipe-Calculator) - work in progress
 
 > 🌱 I’m currently learning
 
