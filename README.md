@@ -4,7 +4,7 @@
 
 > 🔭 I’m currently working on:
 
-- 👨🏻‍🍳 [Recipe Calculator](https://github.com/marcelomnzs/Recipe-Calculator) - work in progress
+- 🏎 [F1-Stats](https://github.com/marcelomnzs/f1Stats) - work in progress
 
 > 🌱 I’m currently learning
 
