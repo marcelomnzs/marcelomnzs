@@ -9,7 +9,7 @@
 > 🌱 I’m currently learning
 
 - Vue 
-- Laravel 
+- Java
 - Tailwind
 
 > 📫 How to reach me? You can find me through these social medias: 
