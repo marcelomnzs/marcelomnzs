@@ -4,13 +4,12 @@
 
 > 🔭 I’m currently working on:
 
-- 🏎 [F1-Stats](https://github.com/marcelomnzs/f1Stats) - work in progress
+- ⚡ [Pokedex](https://github.com/marcelomnzs/Flutter-Pokedex) - work in progress
 
 > 🌱 I’m currently learning
 
-- Vue 
-- Java
-- Tailwind
+- Flutter 
+- Python
 
 > 📫 How to reach me? You can find me through these social medias: 
     <div>
@@ -21,7 +20,7 @@
 
 > ⚡ Fun fact:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I love music, and i do play a bit of a few instruments :notes:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm passionate about music and i play guitar  :notes:
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelomnzs&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomnzs&layout=compact&theme=dracula"/>
