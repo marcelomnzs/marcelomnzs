@@ -4,12 +4,12 @@
 
 > 🔭 I’m currently working on:
 
-- ⚡ [Pokedex](https://github.com/marcelomnzs/Flutter-Pokedex) - work in progress
+- ⚡ [FlutterDex](https://github.com/marcelomnzs/FlutterDex.git) - work in progress
 
 > 🌱 I’m currently learning
 
 - Flutter 
-- Python
+- Java
 
 > 📫 How to reach me? You can find me through these social medias: 
     <div>
