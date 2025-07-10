@@ -4,7 +4,7 @@
 
 > 🔭 I’m currently working on:
 
-- ⚡ [FlutterDex](https://github.com/marcelomnzs/FlutterDex.git) - work in progress
+- ⚡ [Diabary](https://github.com/marcelomnzs/diabary.git) - work in progress
 
 > 🌱 I’m currently learning
 
