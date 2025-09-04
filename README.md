@@ -8,7 +8,6 @@
 
 > 🌱 I’m currently learning
 
-- Flutter 
 - Java
 
 > 📫 How to reach me? You can find me through these social medias: 
